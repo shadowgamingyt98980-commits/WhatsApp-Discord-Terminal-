@@ -27,7 +27,8 @@ This project is built explicitly for hobby experimental setups where hosting can
 1. **Clone the Repository**
    ```bash
    git clone https://github.com
-   cd YOUR_REPOSITORY
+   **WhatsApp-To-Discord-Terminal-
+**
    ```
 
 2. **Install Required Python Dependencies**
