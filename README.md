@@ -63,4 +63,4 @@ This project is built explicitly for hobby experimental setups where hosting can
 ---
 
 ## 🛡️ License & Safety Disclaimer
-This repository is released under the **MIT License**. This project is completely independent, unendorsed by Meta Platforms Inc. or Discord Inc., and was built solely for local sandbox testing. Use responsibly.
+This repository is released under the **MIT License**. This project is completely independent, unendorsed by Meta Platforms Inc. or Discord Inc., and was built solely for local sandbox testing. Use responsibly Or Not I Dont Give a F*ck.
